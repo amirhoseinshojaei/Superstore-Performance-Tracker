@@ -39,7 +39,7 @@ You can view the live Tableau dashboard here:
 
 ## Image
 
-![Dashboard Screenshot](https://public.tableau.com/static/images/Su/SuperstorePerformanceTracker_17404824498300/Dashboard1/4_3.png)
+![Dashboard Screenshot](https://github.com/amirhoseinshojaei/Superstore-Performance-Tracker/blob/main/Dashboard%201.png)
 
 ## Contributing
 
